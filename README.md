@@ -1,2 +1,2 @@
 # OthelloProject
-The Othello game made in unity for the AI subject, implementing its own AI with the MINMAX algorithm with alpha and beta pruning.
+The Othello game made in Unity, implementing its own AI with the MINMAX algorithm with alpha and beta pruning.
